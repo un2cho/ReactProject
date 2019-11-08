@@ -1,0 +1,13 @@
+.App {
+    width: 512px;
+    margin: 0 auto;
+    margin-top: 4rem;
+    border: 4px dashed #91a7ff;
+    padding: 1rem;
+    .buttons + .buttons {
+        margin-top: 1rem;
+    }
+    .customized-button {
+        background: #9775fa;
+    }
+}
