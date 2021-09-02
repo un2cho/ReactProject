@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@sentry/browser": "^5.7.1",
-    "immer": "^4.0.2",
+    "immer": "^9.0.6",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-scripts": "3.2.0"
